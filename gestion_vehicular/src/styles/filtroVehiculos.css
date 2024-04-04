@@ -1,0 +1,125 @@
+.busquedaVehi{
+    width: 100%;
+    display: flex;
+    font-weight: bold;
+    background-color: #da6517ce;
+}
+
+.busquedaVehi input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    background-color: #da6517ce;
+    color: white;
+    font-weight: bold;
+}
+
+.busquedaVehi input::placeholder {
+    color: white;
+}
+
+.busquedaVehi select {
+    flex: 0;
+    padding: 10px;
+    border: none;
+    background-color: #da6517ce;
+    color: white;
+    font-weight: bold;
+    border-left: solid 1px;
+}
+
+.busquedaVehi button {
+    cursor: pointer;
+    background-color: #da6517ce;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 0%;
+    border-left: solid 1px;
+    font-weight: bold;
+}
+
+.busquedaVehi button:hover,
+.busquedaVehi select:hover {
+    cursor: pointer;
+    background-color: #fd8637ce;
+}
+
+.busquedaVehi input[type="text"]:hover {
+    background-color: #fd8637ce;
+}
+
+.contenedorVehiculos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.vehiculo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to left, #1b3665 40%, black);
+    color: white;
+    margin: 1%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    text-decoration: none;
+    width: 25%;
+    filter: brightness(70%);
+}
+
+.contenedorInfo {
+    display: flex;
+    flex-direction: column;
+}
+
+.vehiculo img {
+    width: 40%;
+    margin: 0% 0% 0% 10%;
+    transition: 0.5s ease;
+}
+
+.estado {
+    padding: 50%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    font-size: x-large;
+    margin-top: 0;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    transition: 0.5s ease;
+}
+
+.estadoActivo {
+    background-color: green;
+    background-image: url("../img/activo.png");
+}
+
+.estadoMantenimiento {
+    background-color: gray;
+    background-image: url("../img/mantenimiento.png");
+}
+
+.estadoRuta {
+    background-color: #da6517ce;
+    background-image: url("../img/ruta.png");
+}
+
+.estadoBaja {
+    background-color: red;
+    background-image: url("../img/baja.png");
+}
+
+.vehiculo:hover .estado {
+    padding: 55%;
+}
+
+.vehiculo:hover img {
+    width: 45%;
+}
+
+.vehiculo:hover {
+    filter: none;
+    transition: 0.5s ease;
+}
