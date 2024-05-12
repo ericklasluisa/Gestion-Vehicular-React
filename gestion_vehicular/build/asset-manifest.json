@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e12990f.css",
+    "main.js": "/static/js/main.9ead25df.js",
+    "static/js/453.c0536dbc.chunk.js": "/static/js/453.c0536dbc.chunk.js",
+    "static/media/LogoGestionVehicular.png": "/static/media/LogoGestionVehicular.3f7627fc70f963504fa5.png",
+    "static/media/geo.jpg": "/static/media/geo.637ce82e99ad1c6075e5.jpg",
+    "static/media/recorridos.jpg": "/static/media/recorridos.95217142af2f2aa61b56.jpg",
+    "static/media/BusMercedes.jpg": "/static/media/BusMercedes.e68b96731deb02c60f9c.jpg",
+    "static/media/chofer.jpg": "/static/media/chofer.ef402010eec8b841a480.jpg",
+    "static/media/logo-cliente.png": "/static/media/logo-cliente.d099d6163147ee8c80d7.png",
+    "static/media/ubitec-vehículos-por-GPS.jpg": "/static/media/ubitec-vehículos-por-GPS.afd0793e9e03cc51b0c7.jpg",
+    "static/media/LogoInsta.png": "/static/media/LogoInsta.592d38c0d61a96233783.png",
+    "static/media/mantenimiento.jpg": "/static/media/mantenimiento.e267ac9a6c436f68a253.jpg",
+    "static/media/LogoTwitter.png": "/static/media/LogoTwitter.b7a33a2cdc3995481535.png",
+    "static/media/activo.png": "/static/media/activo.b02dc2ec231e8ec0e7db.png",
+    "static/media/flota.jpg": "/static/media/flota.7f9a47c941f20e3632fe.jpg",
+    "static/media/LogoFacebook.png": "/static/media/LogoFacebook.bb7371e7ff902ca2ef66.png",
+    "static/media/lambo.png": "/static/media/lambo.61ffeee72f4ff3eb3dd6.png",
+    "static/media/baja.png": "/static/media/baja.9137dc9ecf6243393598.png",
+    "static/media/buscar.png": "/static/media/buscar.571548dfeb7c26da0e05.png",
+    "static/media/mantenimiento.png": "/static/media/mantenimiento.860953ba84659a2a01c5.png",
+    "static/media/siguiente.png": "/static/media/siguiente.73acd4b885940e00dc0a.png",
+    "static/media/LogoCerrarSesion.png": "/static/media/LogoCerrarSesion.7cc2cb4cd6a664d776ad.png",
+    "index.html": "/index.html",
+    "main.1e12990f.css.map": "/static/css/main.1e12990f.css.map",
+    "main.9ead25df.js.map": "/static/js/main.9ead25df.js.map",
+    "453.c0536dbc.chunk.js.map": "/static/js/453.c0536dbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e12990f.css",
+    "static/js/main.9ead25df.js"
+  ]
+}
